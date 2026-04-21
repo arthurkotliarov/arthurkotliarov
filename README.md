@@ -17,27 +17,6 @@ I'm a French engineering student passionate about control systems, autonomous ro
 
 ---
 
-## 🔬 Featured Projects
-
-### 🤖 Autonomous Self-Balancing Robot *(Bachelor's Thesis — 6/6)*
-Designed and built a two-wheel self-balancing robot from scratch — mechanical design, embedded electronics, and real-time control.
-- Cascaded PID control with ESP32-based web interface for live tuning and telemetry
-- Full path-planning pipeline: waypoint processing + autonomous tracking via encoder & IMU sensor fusion
-
-### 🛰️ Sequential Convexification (SCvx) – Satellite Docking
-Nonlinear trajectory optimization framework with spacecraft dynamics and collision avoidance, validated in closed-loop simulation across multiple challenging docking scenarios.
-
-### 🏭 Decentralized Multi-Agent Planning – Warehouse Robotics
-Decentralized task allocation and collision-free motion planning for differential-drive robots, integrating global coordination with real-time local obstacle avoidance.
-
-### ⚙️ Model-Based Idle Speed Control – 2.5L SI Engine
-LQGI controller designed from test-bench parameter identification to robustly reject load disturbances on a spark-ignition engine.
-
-### 🌬️ Airborne Wind Energy Prototype *(ETH Automatic Control Lab)*
-Structural and system-level analysis of a multi-wing AWE prototype; mapped subsystems to aviation & wind energy standards and proposed design adaptations for certification.
-
----
-
 ## 🛠️ Skills
 
 **Languages & Tools**
